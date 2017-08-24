@@ -17,7 +17,7 @@
 
     
     <mappers>
-             <mapper resource="mapper.mapperPhone.xml" />
+             <mapper resource="mapper/mapperPhone.xml" />
     </mappers>
     
 </configuration>

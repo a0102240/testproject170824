@@ -25,7 +25,7 @@ public class TestServicePhone {
     
     @Test
     public void testConfiguration() {     
-        assertNotNull(phoneservice);
+        assertNotNull(phoneservice);            
     }
     
     @Test
